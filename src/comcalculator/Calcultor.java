@@ -11,10 +11,11 @@ public class Calcultor {
 		   
 		   int sum=num1+num2;
 		   int sub=num1-num2;
+		   int mul=num1*num2;
 		   
 		   System.out.println("sum is: "+sum);
 		   System.out.println("sub is: "+sub);
-		    
+		   System.out.println("mul is: "+mul);
 		    
 	}
 
